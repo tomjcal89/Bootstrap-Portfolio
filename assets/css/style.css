@@ -1,0 +1,72 @@
+
+.jumbotron {
+    background-color: silver;   
+   overflow: hidden;
+}
+
+.jumbotroncontact {
+    text-align: center;
+}
+
+
+
+.navbar-brand   {
+    font-size: 50px;
+    cursor: default;
+    
+
+}
+
+
+.card-img-top {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    border: none;
+}
+
+
+
+.nav-link {
+
+    
+    
+}
+
+
+
+.nav-item {
+    font-size: 25px;
+    cursor: default;
+
+    
+    
+}
+
+.navbar-nav {
+    margin-top:10px;
+    margin-left: 100px;
+    cursor: default;   
+   
+}
+
+p {
+   
+    overflow: hidden;
+    
+}
+
+img {
+    float: left;
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+    margin-right: 20px;
+    
+}
+
+.card-header {
+    background-color: rgb(1, 38, 53)
+}
+
+
