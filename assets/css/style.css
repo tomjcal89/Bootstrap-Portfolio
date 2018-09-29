@@ -8,52 +8,40 @@
     text-align: center;
 }
 
-
+.jumbotronportfolio {
+    text-align: center; 
+    margin-bottom: 100px;  
+   color: navy;
+   font-style: italic;
+}
 
 .navbar-brand   {
     font-size: 50px;
     cursor: default;
-    
-
 }
 
-
-.card-img-top {
-    height: 300px;
-    width: 300px;
+.form-group {
+    font-size: 20px;
+    text-align: left;   
+    width: 960px;
     margin: auto;
-    border: none;
+    padding-top: 30px;
 }
 
-
-
-.nav-link {
-
-    
-    
+.card-title {
+    text-align: center;
 }
-
-
 
 .nav-item {
-    font-size: 25px;
+    width: 100%;
+    font-size: 30px;
     cursor: default;
-
-    
-    
+    float: right;  
 }
 
 .navbar-nav {
-    margin-top:10px;
-    margin-left: 100px;
-    cursor: default;   
-   
-}
-
-p {
-   
-    overflow: hidden;
     
+    cursor: default;    
 }
 
 img {
@@ -61,9 +49,9 @@ img {
     border: 2px solid black;
     width: 250px;
     height: 250px;
-    margin-right: 20px;
-    
+    margin-right: 20px; 
 }
+
 
 .card-header {
     background-color: rgb(1, 38, 53)
