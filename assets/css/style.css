@@ -1,3 +1,18 @@
+bootstrap-social.css{
+   background-color: #444444;
+   font-size: 50px;
+   width:50px;
+}
+
+.email{
+    text-align: center;
+    
+}
+
+.btn-primary {
+    background-color: rgb(21, 41, 77) !important;
+    font-weight: bold;
+}
 
 
 
